@@ -31,6 +31,6 @@ jQuery(document).ready(function( $ ) {
       horizontalScrolling: false,
       verticalOffset: 40
     });
-
-
+	
+	
 });
